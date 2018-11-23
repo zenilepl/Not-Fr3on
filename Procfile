@@ -1,1 +1,0 @@
-worker: node dream.js

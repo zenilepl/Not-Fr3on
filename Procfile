@@ -1,1 +1,1 @@
-worker: node dream.js
+worker: node bot.js

@@ -11,4 +11,4 @@ channel.send(`zenilep`);
 })
  
  
-client.login("NTE1MjMyNTgyNzI0NjE2MjEw.Dtm8Rg.iK28mFNV03g9QTIG3dKSpoN5Ndo");
+client.login("TOKEN_BOT");
